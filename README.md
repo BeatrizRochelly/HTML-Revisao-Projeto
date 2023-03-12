@@ -28,3 +28,13 @@ Pequeno projeto desenvolvido através do canal no Youtube de Matheus Battisti - 
 - Salvar o arquivo do projeto com a extensão .html;
 - E abrir estre arquivo pelo navegador, copiando o seu caminho relativo;
 
+# O que são tags?
+
+- Os elementos do HTML são escritos através de tags;
+- Temos uma sintaxe semelhante para quase todas elas;
+- Sintaxe é a forma de como é codificado algo em uma linguagem de programação;
+- Exemplo:
+  <p>Este é um texto</p>
+- Esta tag cria um parágrafo no nosso site;
+
+
