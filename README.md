@@ -45,4 +45,13 @@ Pequeno projeto desenvolvido através do canal no Youtube de Matheus Battisti - 
 - Esta tag gera um elemento clicável, que nos leva até uma outra página;
 - E o link desta página é determinado pelo atributo href;
 
+# Encadeamento (nesting)
+
+- Encadeamento, também chamado de nesting, é quando adicionamos um elemento dentro de outro;
+- Uma técnica importante do HTML, para criar sessões, exemplo:
+  <div>
+    <h1>Meu título</h1>
+    <p>Meu conteúdo</p>
+  </div>
+  - Aqui temos uma div com um título e um parágrafo, ambos encadeados;
 
