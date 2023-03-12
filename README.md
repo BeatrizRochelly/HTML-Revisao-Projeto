@@ -9,7 +9,7 @@ Pequeno projeto desenvolvido através do canal Matheus Battisti - Hora de Codar
 - Pode ser executada diretamente no navegador, não precisar de setup;
 - Toda página web tem na sua composição HTML
 
-O HTML estrutura as páginas webs
+  O HTML Estrutura As Páginas Webs.
 
 # O que forma a estrutura?
 
