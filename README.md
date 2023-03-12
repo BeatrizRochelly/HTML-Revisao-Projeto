@@ -41,7 +41,7 @@ Pequeno projeto desenvolvido através do canal no Youtube de Matheus Battisti - 
 
 - Atributos são como opções especiais para configurar determinadas tags;
 - Exemplo:
-  <a href= "https://www.google.com">Ir para o Google</a>
+  <a href= "Nome do site, exemplo: Google">Ir para o Google</a>
 - Esta tag gera um elemento clicável, que nos leva até uma outra página;
 - E o link desta página é determinado pelo atributo href;
 
