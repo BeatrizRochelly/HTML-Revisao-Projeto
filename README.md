@@ -37,4 +37,12 @@ Pequeno projeto desenvolvido através do canal no Youtube de Matheus Battisti - 
   <p>Este é um texto</p>
 - Esta tag cria um parágrafo no nosso site;
 
+# Os Atributos do HTML
+
+- Atributos são como opções especiais para configurar determinadas tags;
+- Exemplo:
+  <a href= "https://www.google.com">Ir para o Google</a>
+- Esta tag gera um elemento clicável, que nos leva até uma outra página;
+- E o link desta página é determinado pelo atributo href;
+
 
