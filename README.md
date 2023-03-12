@@ -1,5 +1,5 @@
 # HTML-Revisao-Projeto
-Pequeno projeto desenvolvido através do canal Matheus Battisti - Hora de Codar 
+Pequeno projeto desenvolvido através do canal no Youtube de Matheus Battisti - Hora de Codar 
 
 # O que é HTML?
 - Acrônimo para Hypertext Markup Language;
