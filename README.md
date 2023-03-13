@@ -64,3 +64,4 @@ Pequeno projeto desenvolvido através do canal no Youtube de Matheus Battisti - 
 - Os atributos configuram a tag completamente;
 - Inserindo o caminho da imagem (src) e uma descrição (alt);
 
+
