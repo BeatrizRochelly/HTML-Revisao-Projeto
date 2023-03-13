@@ -55,3 +55,12 @@ Pequeno projeto desenvolvido através do canal no Youtube de Matheus Battisti - 
   </div>
   - Aqui temos uma div com um título e um parágrafo, ambos encadeados;
 
+# Tags sem fechamento 
+
+- Há tags que não possuem fechamento;
+- Geralmente é quando ela não tem conteúdo;
+- Um exemplo é a imagem, veja:
+  <img src= "minhaimagem.jpg" alt= "Conteúdo da imagem">
+- Os atributos configuram a tag completamente;
+- Inserindo o caminho da imagem (src) e uma descrição (alt);
+
